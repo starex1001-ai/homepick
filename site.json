@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "홈픽",
+  "brand": "HOME PICK",
+  "mark": "HP",
+  "worker": "homepick",
+  "url": "https://homepick.webnote-lab.workers.dev",
+  "description": "가전 배치와 집 관리, 습도와 생활 공간의 점검 기준을 다룹니다.",
+  "tagline": "집 안의 작은 문제부터",
+  "categories": [
+    {
+      "slug": "power-strips",
+      "name": "멀티탭·전기",
+      "description": "멀티탭·전기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "circuit-breakers",
+      "name": "누전·차단기",
+      "description": "누전·차단기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "moisture",
+      "name": "곰팡이·습기",
+      "description": "곰팡이·습기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "air-quality",
+      "name": "실내 공기",
+      "description": "실내 공기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "drainage",
+      "name": "수도·배수",
+      "description": "수도·배수 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "laundry-room",
+      "name": "세탁실 관리",
+      "description": "세탁실 관리 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "outlets",
+      "name": "콘센트",
+      "description": "콘센트 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "humidity",
+      "name": "습도 관리",
+      "description": "습도 관리 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "appliance-layout",
+      "name": "가전 배치",
+      "description": "가전 배치 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "power-outages",
+      "name": "정전 대비",
+      "description": "정전 대비 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/homepick/issues"
+}
